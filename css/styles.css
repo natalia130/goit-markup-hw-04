@@ -433,14 +433,7 @@ address {
 .logo-footer-color {
   color: #f4f4fd;
 }
-.footer-soc-links-text {
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  margin-bottom: 16px;
-}
+
 .footer-text {
   color: #f4f4fd;
   font-size: 16px;
